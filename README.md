@@ -25,3 +25,23 @@
 # DATA CLEANING: 
 The dataset was cleaned by selecting the wanted attributes or variables, excluding null rows and treating outliers, if necessary, in addition to transforming data types to the wanted type, although the dataset didn’t need to go through all the alterations as there was no merging needed as well.
 
+# STEP 5: EXPLORATORY DATA ANALYSIS (EDA)
+ The following questions were used to query the credit card fraud detection dataset;
+1.	Determine the total number of fraudulent transactions and valid transactions.
+2.	What is the percentage of the class that was fraud?
+3.	Determine the sum of false transactions made as against the actual transactions recorded in the dataset.
+4.	The average time of the transactions 
+5.	 The least amount of transaction made in the dataset with a response variable(class) of 1.
+6.	What is the average transaction amount in the dataset.
+7.	Check the amount details of the fraudulent transactions as well as the valid transactions.
+8.	 Determine the ratio of fraud cases to valid cases to measure or check if the data set is balanced or not.
+
+# STEP  6: DATA ANALYSIS
+ Using the sql query visual studio, the data set was queried using the following formats; 
+use JOANNY
+GO
+
+Select *from [creditcard_jojo]
+
+
+
