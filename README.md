@@ -38,7 +38,7 @@ The dataset was cleaned by selecting the wanted attributes or variables, excludi
 
 # STEP  6: DATA ANALYSIS
  Using the sql query visual studio, the data set was queried using the following formats; 
-use JOANNY
+ use JOANNY
 GO
 
 Select *from [creditcard_jojo]
