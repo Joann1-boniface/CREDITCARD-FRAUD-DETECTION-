@@ -39,7 +39,7 @@ The dataset was cleaned by selecting the wanted attributes or variables, excludi
 # STEP  6: DATA ANALYSIS
  Using the sql query visual studio, the data set was queried using the following formats; 
 
- <img width="992" height="883" alt="image" src="https://github.com/user-attachments/assets/e720f6ca-f825-42d8-974c-630d15f87b9a" />
+ <img width="982" height="882" alt="image" src="https://github.com/user-attachments/assets/80f49b48-ed48-48c9-99f4-fac9d81c8df1" />
 
 
 
