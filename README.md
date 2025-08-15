@@ -1,5 +1,7 @@
 # CREDITCARD-FRAUD-DETECTION-
+
 # REPORT ON CREDITCARD FRAUD DETECTION ANALYSIS
+
 # PROJECT PREVIEW
  The credit card fraud detection project aims to accurately identify fraudulent transactions within a highly imbalanced dataset containing legitimate (valid) transactions and fraud transactions, where only a small fraction of transactions is fraudulent. The dataset has 284, 807 transactions with only 492 labeled as fraud (about 0.17%) making it highly imbalanced.
  
@@ -15,11 +17,7 @@
 3.	Column 29: Amount; This indicates transaction amount.
 4.	Column 30: Class: Target/Response Variables (0 for Normal(valid) transactions, 1 for fraudulent transactions).
 
-creditcard fraud detection project\creditcard_jojo.csv
-
-SQLQuery1 BONIFACE JOANNA CREDITCARD FRAUD DETECTION DATASET.sql
-
-# STEP 3. TOOLS USED:
+# STEP 3. TOOLS USED
  The following tools were used to analyze the dataset;
 1. Microsoft Excel
 2.	SQL
@@ -35,7 +33,7 @@ The dataset was cleaned by selecting the wanted attributes or variables, excludi
 2.	What is the percentage of the class that was fraud?
 3.	Determine the sum of false transactions made as against the actual transactions recorded in the dataset.
 4.	The average time of the transactions 
-5.	 The least amount of transaction made in the dataset with a response variable(class) of 1.
+5.	The least amount of transaction made in the dataset with a response variable(class) of 1.
 6.	What is the average transaction amount in the dataset.
 7.	Check the amount details of the fraudulent transactions as well as the valid transactions.
 8.	 Determine the ratio of fraud cases to valid cases to measure or check if the data set is balanced or not.
