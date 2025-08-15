@@ -54,3 +54,23 @@ The dataset was cleaned by selecting the wanted attributes or variables, excludi
 <img width="485" height="314" alt="image" src="https://github.com/user-attachments/assets/12d84590-c94e-40fd-9aad-a540d1abca89" />
 
 <img width="482" height="296" alt="image" src="https://github.com/user-attachments/assets/625fee3e-e520-4cd0-a672-d2a794051e4d" />
+
+<img width="470" height="584" alt="image" src="https://github.com/user-attachments/assets/18fa4c03-f61c-4858-b453-d6c17fbd2143" />
+
+# STEP 6: RESULTS AND FINDINGS
+<img width="464" height="315" alt="image" src="https://github.com/user-attachments/assets/2d437498-86e1-4b72-a603-e82e041a6fb9" />
+
+ The figure above shows the distribution of class, the row labelled with count of 284,315 which represents the non-fraudulent transactions and the row laballed 1 with count of 492 represents the fraudulent transactions, the Average time for the Total amount of transaction is 88.35, while that of time is 94.81.
+Thus, the credit card fraud detection dataset  has 284,807 transactions with only 492 labelled as fraud (about 0.17%) making the dataset highly imbalanced.
+
+<img width="581" height="341" alt="image" src="https://github.com/user-attachments/assets/53ae4fd4-5d9c-4976-9815-abdfcc85830c" />
+
+ The figure above shows an influencer which shows that time is likely to increase when the sum of V1 is more than 1.5537 than ootherwise 
+  (on Average), thus , in the data set the different variables influences time to either increase or decrease.
+  
+# RECOMMENDATIONS
+ There are many ways to improve the model, such as using iton different datasets with varius sizes, different datatypes or by changing the data splitting ratio, in addition to viewing it from different algorithm perspective , an example can be merging telecom data to calculate the location of people to have better knowledge of the location of the card owner while his/her credit card is being used, as it will ease the detection because if the card owner is in Ghana and the transaction was made in Accra, it eill easily be detected as fraud.
+Other machine learning techniques should be used for further analysis of this dataset.
+
+# CONCLUSION
+ This project spreads out a discussion on analysis in creditcard data processing and did well for the procession. By this, there is a tendency to remodel the credit card data to the format of data mining, primarily by the subsequent means that, like adding the applied mathematics field of the transaction, data cleaning, conversion, data integration and data duiscretization for further analysis. (Xiiaohua Hu, Db-Hreducton: A data pre processing Algorithm for Data Mining Application, 0893-965/03-2003, Elsevier Science Ltd).
