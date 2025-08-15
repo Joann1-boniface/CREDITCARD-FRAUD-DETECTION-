@@ -44,5 +44,6 @@ The dataset was cleaned by selecting the wanted attributes or variables, excludi
 
 <img width="992" height="883" alt="image" src="https://github.com/user-attachments/assets/c2ee4e6d-41d3-4c96-b735-3e0fc1a52bc5" />
 
+<img width="481" height="621" alt="image" src="https://github.com/user-attachments/assets/f9f922d6-4724-4f78-94e6-09a337dd77dd" />
 
 
