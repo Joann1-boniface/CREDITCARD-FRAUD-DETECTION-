@@ -51,5 +51,3 @@ The dataset was cleaned by selecting the wanted attributes or variables, excludi
 <img width="485" height="314" alt="image" src="https://github.com/user-attachments/assets/12d84590-c94e-40fd-9aad-a540d1abca89" />
 
 <img width="482" height="296" alt="image" src="https://github.com/user-attachments/assets/625fee3e-e520-4cd0-a672-d2a794051e4d" />
-
-<img width="464" height="315" alt="image" src="https://github.com/user-attachments/assets/4c7acc18-d7e6-4eb1-93e3-988c51a17ee8" />
