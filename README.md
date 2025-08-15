@@ -38,10 +38,10 @@ The dataset was cleaned by selecting the wanted attributes or variables, excludi
 
 # STEP  6: DATA ANALYSIS
  Using the sql query visual studio, the data set was queried using the following formats; 
- use JOANNY
-GO
 
-Select *from [creditcard_jojo]
+ <img width="992" height="883" alt="image" src="https://github.com/user-attachments/assets/e720f6ca-f825-42d8-974c-630d15f87b9a" />
+
+
 
 
 
