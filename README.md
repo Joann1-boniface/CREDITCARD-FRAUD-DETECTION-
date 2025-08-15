@@ -16,6 +16,7 @@
 4.	Column 30: Class: Target/Response Variables (0 for Normal(valid) transactions, 1 for fraudulent transactions).
 
 creditcard fraud detection project\creditcard_jojo.csv
+
 SQLQuery1 BONIFACE JOANNA CREDITCARD FRAUD DETECTION DATASET.sql
 
 # STEP 3. TOOLS USED:
